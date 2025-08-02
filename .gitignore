@@ -1,2 +1,23 @@
-node_modules
+# Node modules
+node_modules/
+
+# Environment variables
 .env
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS related files
+.DS_Store
+Thumbs.db
+
+# VSCode settings (optional)
+.vscode/
+
+# Build files (if any in future)
+dist/
+build/
+
+# Dependency lock files (optional for multi-dev environments)
+package-lock.json
