@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Node modules
 node_modules/
 
@@ -21,3 +22,19 @@ build/
 
 # Dependency lock files (optional for multi-dev environments)
 package-lock.json
+=======
+*.tar
+*.tar.*
+*.jar
+*.exe
+*.msi
+*.deb
+*.zip
+*.tgz
+*.log
+*.log.*
+*.sig
+
+pkg/
+src/
+>>>>>>> 2c77f69602f75fdea504348267c1e32c4c324130
